@@ -1,5 +1,5 @@
 
-> Open this page at [https://faridskyman.github.io/microbit-ext-led-screen-line/](https://faridskyman.github.io/microbit-ext-led-screen-line/)
+> Open this page at [https://faridskyman.github.io/Microbit-Ext-led-screen-line//](https://faridskyman.github.io/Microbit-Ext-led-screen-line/)
 
 ## Usage
 
