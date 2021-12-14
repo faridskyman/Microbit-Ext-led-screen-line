@@ -4,7 +4,7 @@ namespace screenMagic{
  * Address LEDs Linearly row first
  */
 //% blockId=screenmagicplotat
-//% block="plot at index $" 
+//% block="plot at $index" 
 //% index.min=0 index.max=25
 
 
