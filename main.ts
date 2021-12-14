@@ -1,9 +1,9 @@
-namespace screenMagic{
+namespace screenMagicLED{
 
 /**
  * Address LEDs Linearly row first
  */
-//% blockId=screenmagicplotat
+//% blockId=screenmagicledplotat
 //% block="plot at $index" 
 //% index.min=0 index.max=25
 
