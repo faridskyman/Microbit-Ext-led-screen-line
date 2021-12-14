@@ -1,5 +1,6 @@
 {
     "name": "Ext-LED-Screen-Line",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
