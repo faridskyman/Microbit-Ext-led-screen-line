@@ -1,6 +1,20 @@
 
 > Open this page at [https://faridskyman.github.io/microbit-ext-led-screen-line/](https://faridskyman.github.io/microbit-ext-led-screen-line/)
 
+## Usage
+
+### ``plotAt``
+
+Use the ``plotAt`` block to render LEDs
+
+```blocks
+for(let i=0; i<25; i++){
+    screenMagicLED.plotAt(i)
+    basic.pause(500);
+}
+```
+
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
